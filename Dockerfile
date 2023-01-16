@@ -1,4 +1,4 @@
-FROM node:12.16.3-slim
+FROM node:lts-bullseye-slim
 
 WORKDIR /code
 
